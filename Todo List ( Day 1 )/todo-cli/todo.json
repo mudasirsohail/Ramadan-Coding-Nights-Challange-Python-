@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Buy grocery for sehri and iftari",
+        "done": false
+    },
+    {
+        "task": "buy some yoghurt",
+        "done": true
+    },
+    {
+        "task": "get milk when come home",
+        "done": true
+    },
+    {
+        "task": "1st Sehri Done",
+        "done": true
+    }
+]
