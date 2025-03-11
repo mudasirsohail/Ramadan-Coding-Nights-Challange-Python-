@@ -63,3 +63,5 @@ st.subheader("Money-Making Motivation")
 if st.button("Get Inspired"):  # When user clicks button
     quote = fetch_money_quote()  # Get a quote
     st.info(quote)  # Show the quote
+st.write("--------------------------")
+st.write("Made with ❤️ by [Mudasir Sohail](https://github.com/mudasirsohail) ")
