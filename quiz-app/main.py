@@ -131,3 +131,6 @@ if st.button("Submit Answer"):
     st.session_state.current_question = random.choice(questions)
 
     st.rerun()
+
+st.write("--------------------------")
+st.write("Made with ❤️ by [Mudasir Sohail](https://github.com/mudasirsohail) ")
