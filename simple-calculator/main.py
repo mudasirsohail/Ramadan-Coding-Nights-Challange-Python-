@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     st.title("Simple Calculator")
-    st.write("Enter two numbers and persorm an operaton")
+    st.write("Enter two numbers and perform an operaton")
 
     col1,col2 = st.columns(2)
 
